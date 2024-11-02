@@ -1,0 +1,7 @@
+{
+  "name": "morern-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
